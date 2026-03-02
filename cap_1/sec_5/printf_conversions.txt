@@ -1,0 +1,11 @@
+********   Printf() conversion characters  ********
+
+Conversion character    How the corresponding argument
+                                is printed
+            
+        c                   as a character
+        d                   as a decimal integer
+        e                   as a floating point in scientific notation
+        f                   as a floating point
+        g                   in e-format or f-format, whichever is shorter
+        s                   as a string

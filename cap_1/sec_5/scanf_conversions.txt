@@ -1,0 +1,10 @@
+********   Scanf() conversion characters  ********
+
+Conversion character    How characters in the input stream
+                                are converted
+            
+        c                   as a character
+        d                   as a decimal integer
+        f                   as a floating point (float)
+        lf or LF            as a floating point (double)
+        s                   as a string
